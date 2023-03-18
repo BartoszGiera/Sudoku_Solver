@@ -1,35 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Visual Studio Projects\\SudokuSolver_v1.0\\SudokuSolver_v1.0.csproj": {}
+    "D:\\Repos\\Sudoku_Solver\\SudokuSolver_v1.0.csproj": {}
   },
   "projects": {
-    "G:\\Visual Studio Projects\\SudokuSolver_v1.0\\SudokuSolver_v1.0.csproj": {
+    "D:\\Repos\\Sudoku_Solver\\SudokuSolver_v1.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Visual Studio Projects\\SudokuSolver_v1.0\\SudokuSolver_v1.0.csproj",
+        "projectUniqueName": "D:\\Repos\\Sudoku_Solver\\SudokuSolver_v1.0.csproj",
         "projectName": "SudokuSolver_v1.0",
-        "projectPath": "G:\\Visual Studio Projects\\SudokuSolver_v1.0\\SudokuSolver_v1.0.csproj",
+        "projectPath": "D:\\Repos\\Sudoku_Solver\\SudokuSolver_v1.0.csproj",
         "packagesPath": "C:\\Users\\djbar\\.nuget\\packages\\",
-        "outputPath": "G:\\Visual Studio Projects\\SudokuSolver_v1.0\\obj\\",
+        "outputPath": "D:\\Repos\\Sudoku_Solver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\djbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,13 +43,15 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -56,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

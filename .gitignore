@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SudokuSolver_v1.0/FileContentIndex/read.lock
+/.vs/SudokuSolver_v1.0/v17/.suo
